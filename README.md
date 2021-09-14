@@ -2,6 +2,11 @@
 
 ## Project setup
 ```
+## 🖇 How to Start
+
+-   Git clone
+-   cd `frontend`
+
 npm install
 ```
 
