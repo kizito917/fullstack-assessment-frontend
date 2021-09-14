@@ -5,7 +5,7 @@
 ## 🖇 How to Start
 
 -   Git clone
--   cd `frontend`
+-   cd `fullstack-assessment-frontend`
 
 npm install
 ```
